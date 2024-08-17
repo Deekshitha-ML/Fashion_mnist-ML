@@ -5,4 +5,11 @@ The Fashion MNIST dataset is a replacement for the original MNIST dataset of han
 ## Model Architecture
 The CNN model consists of several convolutional layers followed by max-pooling and fully connected layers, designed to extract features and classify the images accurately.
 ## Results
-The model achieves an accuracy of 89-90% on the test set. Detailed performance metrics and visualizations can be found in the results section of the project.
+The model achieves an accuracy of 89-90% on the test set,demonstrating robust performance in classifying fashion items. The model's architecture efficiently captures features, leading to reliable predictions across all 10 categories.
+
+
+
+
+
+
+
